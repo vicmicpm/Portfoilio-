@@ -32,7 +32,7 @@
   /* Create four equal columns that floats next to each other */
   .column {
     float: left;
-    width: 25%;
+    width: 33.25%;
   }
   
   /* Clear floats after rows */
@@ -61,3 +61,4 @@
       width: 100%;
     }
   }
+#cmPhoto{transform: rotate(270deg);}
